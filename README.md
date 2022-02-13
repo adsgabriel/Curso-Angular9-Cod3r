@@ -1,3 +1,0 @@
-# Angular
-
-Primeiro Projeto Angular
